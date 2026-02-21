@@ -1,7 +1,9 @@
 --- const
+
+--karoche Luashka na gamesense (только ксго) 
 local OBEX = obex_fetch and obex_fetch() or {
     discord = "unknown",
-    username = "admin",
+    username = "nigger",
     build = "beta"
 }
 
@@ -6003,4 +6005,5 @@ LPH_NO_VIRTUALIZE(function ()
     end)
     
     menu.update()
+
 end)()
